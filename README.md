@@ -2,7 +2,7 @@
 
 ## Usage
 
-See [tests/program.cpp].
+See [`tests/program.cpp`](tests/program.cpp).
 
 ## Running tests
 
