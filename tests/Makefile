@@ -33,7 +33,7 @@ kernel.o: kernel.cpp ${DCC}
 
 # dependencies
 
-${DOARR_LIBS}: doarr ;
+${DOARR_LIBS} ${DCC}: doarr ;
 
 ${SNAKETONGS_LIBS}: snaketongs ;
 
