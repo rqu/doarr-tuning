@@ -1,0 +1,9 @@
+[submodule "tests/doarr"]
+	path = tests/doarr
+	url = https://github.com/rqu/doarr
+[submodule "tests/noarr-structures"]
+	path = tests/noarr-structures
+	url = https://github.com/paracotoul/noarr-structures
+[submodule "tests/snaketongs"]
+	path = tests/snaketongs
+	url = https://github.com/rqu/snaketongs

@@ -1,0 +1,15 @@
+# code
+
+/program
+/kernel.o
+
+/env/
+
+# input data
+
+/matrices
+
+# output data
+
+/opentuner.*
+/mmm_final_config.json
